@@ -43,18 +43,7 @@
                 <a href="" class="">Or Sign Up Using </a>
               </div>
             </div>
-            <div class="row justify-content-center">
-              <div class="col-md-12 col-lg-3 text-center hover">
-                <img src="https://img.icons8.com/color/48/000000/facebook-new.png" />
-              </div>
-              <div class="col-md-12 col-lg-3 text-center hover">
-                <img src="https://img.icons8.com/color/48/000000/gmail-new.png" />
-              </div>
-              <div class="col-md-12 col-lg-3 text-center hover">
-                <img src="https://img.icons8.com/color/48/000000/twitter-circled.png" />
-              </div>
-            </div>
-
+            
             <div class="row footer">
               <div class="col-sm-12 text-center align-self-end">
                 <a href="#">Or Sign Up Using</a>
