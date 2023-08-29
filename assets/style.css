@@ -3,7 +3,7 @@ body {
         #5aace0 0%,
         #727ce6 20%,
         #806de9 60%,
-        #a94aee);
+        #a94aee);/* Alterar essas cores */
     height: 100vh;
   }
 
@@ -23,7 +23,7 @@ body {
   }
 
   button {
-    background: linear-gradient(90deg, #5aace0, #727ce6, #806de9, #a94aee);
+    background: linear-gradient(90deg, #5aace0, #727ce6, #806de9, #a94aee); /* Alterar essas cores */
     border-radius: 100px;
   }
 
