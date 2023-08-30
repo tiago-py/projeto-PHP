@@ -29,31 +29,10 @@
                 <span class="input-group-text" id="basic-addon1"><img src="https://img.icons8.com/material-outlined/30/000000/password.png" /></span>
                 <input type="password" name="password" class="form-control" placeholder="type your password" aria-label="password" aria-describedby="basic-addon1" />
               </div>
-              <div class="row justify-content-end">
-                <div class="col-sm-12 col-md-8 text-end">
-                  <a href="#">Forgot passoword?</a>
-                </div>
-              </div>
               <div class="d-grid gap-2">
                 <button class="btn btn-primary" type="submit">LOGIN</button>
               </div>
             </form>
-            <div class="row justify-content-center">
-              <div class="col-sm-12 col-md-8 text-center">
-                <a href="" class="">Or Sign Up Using </a>
-              </div>
-            </div>
-            
-            <div class="row footer">
-              <div class="col-sm-12 text-center align-self-end">
-                <a href="#">Or Sign Up Using</a>
-              </div>
-              <div class="col-sm-12 text-center align-self-start">
-                <a href="#">
-                  <h4>SIGN UP</h4>
-                </a>
-              </div>
-            </div>
           </div>
         </div>
       </div>

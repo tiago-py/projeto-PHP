@@ -1,8 +1,6 @@
 <?php
-require_once("session.php");
-//fazer as alterações da página principal e criar mais 4
-//tenta colocar um header e nesse header 4 link sendo eles "sobre" "contato" "datas especiais" "sair" "curiosidades" ou coisas parecidas
-//tentar colocar um footer com o nome dos integrantes do grupo
+require_once("../session.php");
+
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -33,16 +31,45 @@ require_once("session.php");
             background-color:#ccc;
             color:black;
         }
+     footer {
+        background-color: #333;
+        color: #fff;
+        text-align: center;
+        padding: 10px 0;
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+    }
+    
+    .names {
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+        margin-top: 10px;
+    }
+    
+    .name {
+        font-size: 14px;
+    }
     </style>
 </head>
 <body>
     <div class="navbar">
-        <a href="./Painel.php">Home</a>
+        <a href="../Painel.php">Home</a>
         <a href="./assets/santos.php">Santos</a>
         <a href="./assets/cruzeiro.php">Cruzeiro</a>
         <a href="./assets/palmeiras.php">Palmeiras</a>
         <a href="./assets/paysandu.php">Paysandu</a>
-        <a href="./end-session.php">Sair</a>
+        <a href="./assets/santos.php">Sair</a>
     </div>
+    <footer>
+    <div class="names">
+      <div class="name">John Doe</div>
+      <div class="name">Jane Smith</div>
+      <div class="name">Alex Johnson</div>
+      <div class="name">Emily Brown</div>
+      <div class="name">Michael Davis</div>
+    </div>
+  </footer>
 </body>
 </html>
