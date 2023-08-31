@@ -8,7 +8,51 @@ require_once("../session.php");
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home</title>
-    <link rel="stylesheet" href="./style.css">
+    <style>
+        body{
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+        .navbar{
+            background-color: #333;
+            overflow:hidden;
+            box-shadow:0px 0px 3px #ccc;
+        }
+        .navbar a{
+            float:left;
+            display:block;
+            color:white;
+            text-align:center;
+            padding: 14px 16px;
+            text-decoration: none;
+
+        }
+        .navbar a:hover{
+            background-color:#ccc;
+            color:black;
+        }
+
+        footer {
+        background-color: #333;
+        color: #fff;
+        text-align: center;
+        padding: 10px 0;
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+        }
+
+        .names {
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+        margin-top: 10px;
+        }
+
+        .name {
+        font-size: 14px;
+        }
+    </style>
 </head>
 <body>
     <div class="navbar">
