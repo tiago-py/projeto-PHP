@@ -10,30 +10,7 @@ require_once("session.php");
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home</title>
-    <style>
-        body {
-            margin: 0;
-            font-family: Arial, sans-serif;
-        }
-        .navbar{
-            background-color: #333;
-            overflow:hidden;
-            box-shadow:0px 0px 3px #ccc;
-        }
-        .navbar a{
-            float:left;
-            display:block;
-            color:white;
-            text-align:center;
-            padding: 14px 16px;
-            text-decoration: none;
-
-        }
-        .navbar a:hover{
-            background-color:#ccc;
-            color:black;
-        }
-    </style>
+    <link rel="stylesheet" href="./assets/style.css">
 </head>
 <body>
     <div class="navbar">
@@ -44,5 +21,14 @@ require_once("session.php");
         <a href="./assets/paysandu.php">Paysandu</a>
         <a href="./end-session.php">Sair</a>
     </div>
+    <footer>
+    <div class="names">
+    <div class="name">Tiago Braga</div>
+      <div class="name">Enzo Monzolli</div>
+      <div class="name">Gustavo Santos</div>
+      <div class="name">Luis Felipe</div>
+      <div class="name">Gabriel Neto</div>
+    </div>
+  </footer>
 </body>
 </html>
