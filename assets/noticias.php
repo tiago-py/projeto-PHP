@@ -1,8 +1,6 @@
 <?php
-require_once("session.php");
-//fazer as alterações da página principal e criar mais 4
-//tenta colocar um header e nesse header 4 link sendo eles "sobre" "contato" "datas especiais" "sair" "curiosidades" ou coisas parecidas
-//tentar colocar um footer com o nome dos integrantes do grupo
+require_once("../session.php");
+
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -59,10 +57,10 @@ require_once("session.php");
 <body>
     <div class="navbar">
     <a href="../Painel.php">Home</a>
-        <a href="./assets/partidas.php">partidas</a>
-        <a href="./assets/noticias.php">noticias</a>
-        <a href="./assets/classificacao.php">classificação</a>
-        <a href="./assets/estatisticas.php">estatistícas</a>
+        <a href="./partidas.php">partidas</a>
+        <a href="./noticias.php">noticias</a>
+        <a href="./classificacao.php">classificação</a>
+        <a href="./estatisticas.php">estatistícas</a>
         <a href="../end-session.php">Sair</a>
     </div>
     <footer>
