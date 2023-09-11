@@ -69,7 +69,7 @@ require_once("../session.php");
     
     <table class="tabela-brasileirao">
         <tr>
-            <td colspan="14" id="tabela-brasileirao-header"><a href="#">Temporada<br><span id="ano">2022 &nbsp;</span></a></td>
+            <td colspan="14" id="tabela-brasileirao-header"><a href="#">Temporada<br><span id="ano">2023 &nbsp;</span></a></td>
         </tr>
         <tr>
             <th class="tabela-colunas-bordas"></th>
@@ -88,129 +88,129 @@ require_once("../session.php");
         <tr>
             <td class="borda-azul"></td>
             <td>1</td>
-            <td><img src="img/palmeiras.png" alt="Palmeiras"></td>
-            <td class="titulo-clube">Palmeiras</td>
-            <td>25</td>
-            <td>12</td>
-            <td>7</td>
-            <td>4</td>
-            <td>1</td>
-            <td>23</td>
-            <td>7</td>
+            <td><img src="img/botafogo.png" alt="Palmeiras"></td>
+            <td class="titulo-clube">botafogo</td>
+            <td>51</td>
+            <td>22</td>
             <td>16</td>
+            <td>3</td>
+            <td>3</td>
+            <td>39</td>
+            <td>13</td>
+            <td>26</td>
             <td class="titulo-ultimas-cinco">
-                <img src="img/vitoria.svg" alt="vitória">
-                <img src="img/vitoria.svg" alt="vitória">
+            <img src="img/derrota.svg" alt="derrota">
                 <img src="img/vitoria.svg" alt="vitória">
                 <img src="img/empate.svg" alt="empate">
                 <img src="img/vitoria.svg" alt="vitória">
+                <img src="img/empate.svg" alt="empate">
             </td>  
             <td class="tabela-colunas-bordas"></td>
         </tr>
         <tr>
             <td class="borda-azul"></td>
             <td>2</td>
-            <td><img src="img/corinthians.png" alt="Corinthians"></td>
-            <td class="titulo-clube">Corinthians</td>
+            <td><img src="img/palmeiras.png" alt="Corinthians"></td>
+            <td class="titulo-clube">palmeiras</td>
+            <td>41</td>
             <td>22</td>
-            <td>12</td>
-            <td>6</td>
-            <td>4</td>
-            <td>2</td>
-            <td>16</td>
-            <td>10</td>
-            <td>6</td>
+            <td>11</td>
+            <td>8</td>
+            <td>3</td>
+            <td>37</td>
+            <td>17</td>
+            <td>20</td>
             <td class="titulo-ultimas-cinco">
                 <img src="img/empate.svg" alt="empate">
                 <img src="img/vitoria.svg" alt="vitória">
-                <img src="img/derrota.svg" alt="derrota">
                 <img src="img/vitoria.svg" alt="vitória">
-                <img src="img/empate.svg" alt="empate">
+                <img src="img/vitoria.svg" alt="vitória">
+                <img src="img/derrota.svg" alt="derrota">
             </td>  
             <td class="tabela-colunas-bordas"></td>
         </tr>
         <tr>
             <td class="borda-azul"></td>
             <td>3</td>
-            <td><img src="img/internacional.png" alt="Internacional"></td>
-            <td class="titulo-clube">Internacional</td>
+            <td><img src="img/gremio.png" alt="Internacional"></td>
+            <td class="titulo-clube">gremio</td>
+            <td>39</td>
             <td>21</td>
             <td>12</td>
-            <td>5</td>
+            <td>3</td>
             <td>6</td>
-            <td>1</td>
-            <td>16</td>
-            <td>11</td>
-            <td>5</td>
+            <td>34</td>
+            <td>25</td>
+            <td>9</td>
             <td class="titulo-ultimas-cinco">
                 <img src="img/vitoria.svg" alt="vitória">
                 <img src="img/vitoria.svg" alt="vitória">
-                <img src="img/empate.svg" alt="empate">
+                <img src="img/derrota.svg" alt="derrota">
                 <img src="img/vitoria.svg" alt="vitória">
-                <img src="img/empate.svg" alt="empate">
+                <img src="img/derrota.svg" alt="derrota">
             </td>  
             <td class="tabela-colunas-bordas"></td>
         </tr>
         <tr>
             <td class="borda-azul"></td>
             <td>4</td>
-            <td><img src="img/athletico-PR.png" alt="Athletico-PR"></td>
-            <td class="titulo-clube">Athletico-PR</td>
-            <td>18</td>
-            <td>12</td>
+            <td><img src="img/flamengo.png" alt="Athletico-PR"></td>
+            <td class="titulo-clube">flamengo</td>
+            <td>39</td>
+            <td>22</td>
+            <td>11</td>
+            <td>6</td>
             <td>5</td>
-            <td>3</td>
-            <td>4</td>
-            <td>12</td>
-            <td>13</td>
-            <td>-1</td>
+            <td>36</td>
+            <td>27</td>
+            <td>9</td>
             <td class="titulo-ultimas-cinco"> 
-                <img src="img/empate.svg" alt="empate">
-                <img src="img/empate.svg" alt="empate">
-                <img src="img/vitoria.svg" alt="vitória">
+            <img src="img/vitoria.svg" alt="vitória">
                 <img src="img/empate.svg" alt="empate">
                 <img src="img/vitoria.svg" alt="vitória">
+                <img src="img/empate.svg" alt="empate">
+                <img src="img/derrota.svg" alt="derrota">
             </td>  
             <td class="tabela-colunas-bordas"></td>
         </tr>
         <tr>
             <td class="borda-laranja"></td>
             <td>5</td>
-            <td><img src="img/saoPaulo.png" alt="São Paulo"></td>
-            <td class="titulo-clube">São Paulo</td>
-            <td>18</td>
-            <td>12</td>
-            <td>4</td>
+            <td><img src="img/fluminense.png" alt="São Paulo"></td>
+            <td class="titulo-clube">fluminense</td>
+            <td>38</td>
+            <td>22</td>
+            <td>11</td>
+            <td>5</td>
             <td>6</td>
-            <td>2</td>
-            <td>17</td>
-            <td>13</td>
-            <td>4</td>
+            <td>31</td>
+            <td>22</td>
+            <td>9</td>
             <td class="titulo-ultimas-cinco"> 
+            <img src="img/vitoria.svg" alt="vitória">
+            <img src="img/empate.svg" alt="empate">
+                <img src="img/vitoria.svg" alt="vitória">
                 <img src="img/derrota.svg" alt="derrota">
                 <img src="img/vitoria.svg" alt="vitória">
-                <img src="img/empate.svg" alt="empate">
-                <img src="img/empate.svg" alt="empate">
-                <img src="img/empate.svg" alt="empate">
             </td>  
             <td class="tabela-colunas-bordas"></td>
         </tr>
         <tr>
             <td class="borda-laranja"></td>
             <td>6</td>
-            <td><img src="img/atletico-MG.png" alt="Atletico-MG"></td>
-            <td class="titulo-clube">Atletico-MG</td>
-            <td>18</td>
-            <td>12</td>
+            <td><img src="img/bragantino.png" alt="Atletico-MG"></td>
+            <td class="titulo-clube">bragantino</td>
+            <td>36</td>
+            <td>22</td>
+            <td>9</td>
+            <td>9</td>
             <td>4</td>
-            <td>6</td>
-            <td>2</td>
-            <td>17</td>
-            <td>14</td>
-            <td>3</td>
+            <td>29</td>
+            <td>21</td>
+            <td>8</td>
             <td class="titulo-ultimas-cinco"> 
                 <img src="img/empate.svg" alt="empate">
-                <img src="img/empate.svg" alt="empate">
+                <img src="img/vitoria.svg" alt="vitória">
                 <img src="img/derrota.svg" alt="derrota">
                 <img src="img/empate.svg" alt="empate">
                 <img src="img/vitoria.svg" alt="vitória">
@@ -220,43 +220,43 @@ require_once("../session.php");
         <tr>
             <td class="borda-verde"></td>
             <td>7</td>
-            <td><img src="img/avai.png" alt="Avaí"></td>
-            <td class="titulo-clube">Avaí</td>
-            <td>17</td>
-            <td>12</td>
-            <td>5</td>
-            <td>2</td>
-            <td>5</td>
-            <td>15</td>
-            <td>17</td>
-            <td>-2</td>
+            <td><img src="img/athletico-pr.png" alt="Avaí"></td>
+            <td class="titulo-clube">athletico-PR</td>
+            <td>34</td>
+            <td>22</td>
+            <td>9</td>
+            <td>7</td>
+            <td>6</td>
+            <td>32</td>
+            <td>26</td>
+            <td>6</td>
             <td class="titulo-ultimas-cinco"> 
-                <img src="img/vitoria.svg" alt="vitória">
-                <img src="img/vitoria.svg" alt="vitória">
-                <img src="img/derrota.svg" alt="derrota">
+            <img src="img/empate.svg" alt="empate">
+            <img src="img/empate.svg" alt="empate">
+            <img src="img/empate.svg" alt="empate">
+            <img src="img/vitoria.svg" alt="vitória">
                 <img src="img/empate.svg" alt="empate">
-                <img src="img/derrota.svg" alt="derrota">
             </td>  
             <td class="tabela-colunas-bordas"></td>
         </tr>
         <tr>
             <td class="borda-verde"></td>
             <td>8</td>
-            <td><img src="img/santos.png" alt="Santos"></td>
-            <td class="titulo-clube">Santos</td>
-            <td>17</td>
-            <td>12</td>
+            <td><img src="img/fortaleza.png" alt="Santos"></td>
+            <td class="titulo-clube">fortaleza</td>
+            <td>32</td>
+            <td>22</td>
+            <td>9</td>
+            <td>5</td>
+            <td>8</td>
+            <td>25</td>
+            <td>21</td>
             <td>4</td>
-            <td>5</td>
-            <td>3</td>
-            <td>16</td>
-            <td>11</td>
-            <td>5</td>
             <td class="titulo-ultimas-cinco"> 
-                <img src="img/vitoria.svg" alt="vitória">
-                <img src="img/empate.svg" alt="empate">
-                <img src="img/empate.svg" alt="empate">
-                <img src="img/empate.svg" alt="empate">
+            <img src="img/derrota.svg" alt="derrota">
+            <img src="img/vitoria.svg" alt="vitória">
+            <img src="img/vitoria.svg" alt="vitória">
+            <img src="img/vitoria.svg" alt="vitória">
                 <img src="img/derrota.svg" alt="derrota">
             </td>  
             <td class="tabela-colunas-bordas"></td>
@@ -264,40 +264,40 @@ require_once("../session.php");
         <tr>
             <td class="borda-verde"></td>
             <td>9</td>
-            <td><img src="img/bragantino.png" alt="Bragantino"></td>
-            <td class="titulo-clube">Bragantino</td>
-            <td>17</td>
-            <td>12</td>
-            <td>4</td>
-            <td>5</td>
-            <td>3</td>
-            <td>16</td>
-            <td>13</td>
-            <td>3</td>
+            <td><img src="img/atletico-MG.png" alt="Bragantino"></td>
+            <td class="titulo-clube">atletico-MG</td>
+            <td>31</td>
+            <td>22</td>
+            <td>8</td>
+            <td>7</td>
+            <td>7</td>
+            <td>25</td>
+            <td>19</td>
+            <td>6</td>
             <td class="titulo-ultimas-cinco"> 
-                <img src="img/vitoria.svg" alt="vitória">
-                <img src="img/empate.svg" alt="empate">
-                <img src="img/vitoria.svg" alt="vitória">
-                <img src="img/derrota.svg" alt="derrota">
-                <img src="img/empate.svg" alt="empate">
+            <img src="img/empate.svg" alt="empate">
+            <img src="img/vitoria.svg" alt="vitória">
+            <img src="img/derrota.svg" alt="derrota">
+            <img src="img/vitoria.svg" alt="vitória">
+            <img src="img/vitoria.svg" alt="vitória">
             </td>  
             <td class="tabela-colunas-bordas"></td>
         </tr>
         <tr>
             <td class="borda-verde"></td>
             <td>10</td>
-            <td><img src="img/flamengo.png" alt="Flamengo"></td>
-            <td class="titulo-clube">Flamengo</td>
-            <td>15</td>
-            <td>12</td>
+            <td><img src="img/cuiaba.png" alt="Flamengo"></td>
+            <td class="titulo-clube">cuiaba</td>
+            <td>28</td>
+            <td>22</td>
+            <td>8</td>
             <td>4</td>
-            <td>3</td>
-            <td>5</td>
-            <td>13</td>
-            <td>13</td>
-            <td>0</td>
+            <td>10</td>
+            <td>21</td>
+            <td>27</td>
+            <td>-6</td>
             <td class="titulo-ultimas-cinco"> 
-                <img src="img/vitoria.svg" alt="vitória">
+            <img src="img/derrota.svg" alt="derrota">
                 <img src="img/derrota.svg" alt="derrota">
                 <img src="img/derrota.svg" alt="derrota">
                 <img src="img/derrota.svg" alt="derrota">
@@ -308,109 +308,109 @@ require_once("../session.php");
         <tr>
             <td class="borda-verde"></td>
             <td>11</td>
-            <td><img src="img/fluminense.png" alt="Fluminense"></td>
-            <td class="titulo-clube">Fluminense</td>
-            <td>15</td>
-            <td>12</td>
+            <td><img src="img/saopaulo.png" alt="Fluminense"></td>
+            <td class="titulo-clube">saopaulo</td>
+            <td>28</td>
+            <td>21</td>
+            <td>7</td>
+            <td>7</td>
+            <td>7</td>
+            <td>25</td>
+            <td>21</td>
             <td>4</td>
-            <td>3</td>
-            <td>5</td>
+            <td class="titulo-ultimas-cinco"> 
+            <img src="img/derrota.svg" alt="derrota">
+            <img src="img/empate.svg" alt="empate">
+            <img src="img/empate.svg" alt="empate">
+                <img src="img/derrota.svg" alt="derrota">
+                <img src="img/empate.svg" alt="empate">
+            </td>  
+            <td class="tabela-colunas-bordas"></td>
+        </tr>
+        <tr>
+            <td class="borda-verde"></td>
+            <td>12</td>
+            <td><img src="img/cruzeiro.png" alt="Coritiba"></td>
+            <td class="titulo-clube">cruzeiro</td>
+            <td>26</td>
+            <td>22</td>
+            <td>6</td>
+            <td>8</td>
+            <td>8</td>
+            <td>20</td>
+            <td>20</td>
+            <td>0</td>
+            <td class="titulo-ultimas-cinco"> 
+            <img src="img/empate.svg" alt="empate">
+                <img src="img/derrota.svg" alt="derrota">
+                <img src="img/empate.svg" alt="empate">
+                <img src="img/derrota.svg" alt="derrota">
+                <img src="img/empate.svg" alt="empate">
+            </td>  
+            <td class="tabela-colunas-bordas"></td>
+        </tr>
+        <tr>
+            <td></td>
             <td>13</td>
-            <td>14</td>
+            <td><img src="img/corinthians.png" alt="América-MG"></td>
+            <td class="titulo-clube">corinthians</td>
+            <td>26</td>
+            <td>21</td>
+            <td>6</td>
+            <td>8</td>
+            <td>7</td>
+            <td>22</td>
+            <td>23</td>
             <td>-1</td>
             <td class="titulo-ultimas-cinco"> 
                 <img src="img/empate.svg" alt="empate">
-                <img src="img/derrota.svg" alt="derrota">
-                <img src="img/vitoria.svg" alt="vitória">
-                <img src="img/derrota.svg" alt="derrota">
-                <img src="img/derrota.svg" alt="derrota">
-            </td>  
-            <td class="tabela-colunas-bordas"></td>
-        </tr>
-        <tr>
-            <td class="borda-verde"></td>
-            <td>12</td>
-            <td><img src="img/coritiba.png" alt="Coritiba"></td>
-            <td class="titulo-clube">Coritiba</td>
-            <td>15</td>
-            <td>12</td>
-            <td>4</td>
-            <td>3</td>
-            <td>5</td>
-            <td>16</td>
-            <td>18</td>
-            <td>-2</td>
-            <td class="titulo-ultimas-cinco"> 
-                <img src="img/derrota.svg" alt="derrota">
-                <img src="img/derrota.svg" alt="derrota">
                 <img src="img/empate.svg" alt="empate">
                 <img src="img/empate.svg" alt="empate">
                 <img src="img/vitoria.svg" alt="vitória">
-            </td>  
-            <td class="tabela-colunas-bordas"></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td>13</td>
-            <td><img src="img/america-MG.png" alt="América-MG"></td>
-            <td class="titulo-clube">América-MG</td>
-            <td>15</td>
-            <td>12</td>
-            <td>4</td>
-            <td>3</td>
-            <td>5</td>
-            <td>11</td>
-            <td>13</td>
-            <td>-2</td>
-            <td class="titulo-ultimas-cinco"> 
                 <img src="img/empate.svg" alt="empate">
-                <img src="img/derrota.svg" alt="derrota">
-                <img src="img/derrota.svg" alt="derrota">
-                <img src="img/vitoria.svg" alt="vitória">
-                <img src="img/empate.svg" alt="empate"> 
             </td>  
             <td class="tabela-colunas-bordas"></td>
         </tr>
         <tr>
             <td></td>
             <td>14</td>
-            <td><img src="img/botafogo.png" alt="Botafogo"></td>
-            <td class="titulo-clube">Botafogo</td>
-            <td>15</td>
-            <td>12</td>
-            <td>4</td>
-            <td>3</td>
-            <td>5</td>
-            <td>13</td>
-            <td>16</td>
-            <td>-3</td>
-            <td class="titulo-ultimas-cinco"> 
-                <img src="img/vitoria.svg" alt="vitória">
-                <img src="img/derrota.svg" alt="derrota">
-                <img src="img/derrota.svg" alt="derrota">
-                <img src="img/derrota.svg" alt="derrota">
-                <img src="img/derrota.svg" alt="derrota"> 
-            </td>  
-            <td class="tabela-colunas-bordas"></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td>15</td>
-            <td><img src="img/ceara.png" alt="Ceará SC"></td>
-            <td class="titulo-clube">Ceará SC</td>
-            <td>15</td>
-            <td>12</td>
-            <td>3</td>
+            <td><img src="img/internacional.png" alt="Botafogo"></td>
+            <td class="titulo-clube">internacional</td>
+            <td>26</td>
+            <td>22</td>
             <td>6</td>
-            <td>3</td>
-            <td>13</td>
-            <td>13</td>
-            <td>0</td>
+            <td>8</td>
+            <td>8</td>
+            <td>17</td>
+            <td>24</td>
+            <td>-7</td>
+            <td class="titulo-ultimas-cinco"> 
+                <<img src="img/empate.svg" alt="empate">
+                <img src="img/empate.svg" alt="empate">
+                <img src="img/derrota.svg" alt="derrota">
+                <img src="img/derrota.svg" alt="derrota">
+                <img src="img/empate.svg" alt="empate"> 
+            </td>  
+            <td class="tabela-colunas-bordas"></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>15</td>
+            <td><img src="img/goias.png" alt="Ceará SC"></td>
+            <td class="titulo-clube">goias</td>
+            <td>25</td>
+            <td>22</td>
+            <td>6</td>
+            <td>7</td>
+            <td>9</td>
+            <td>20</td>
+            <td>29</td>
+            <td>-9</td>
             <td class="titulo-ultimas-cinco"> 
                 <img src="img/empate.svg" alt="empate"> 
                 <img src="img/empate.svg" alt="empate"> 
+                <img src="img/empate.svg" alt="empate">
                 <img src="img/vitoria.svg" alt="vitória">
-                <img src="img/empate.svg" alt="empate"> 
                 <img src="img/vitoria.svg" alt="vitória">
             </td>  
             <td class="tabela-colunas-bordas"></td>
@@ -418,41 +418,41 @@ require_once("../session.php");
         <tr>
             <td></td>
             <td>16</td>
-            <td><img src="img/goias.png" alt="Goiás"></td>
-            <td class="titulo-clube">Goiás</td>
-            <td>14</td>
-            <td>12</td>
-            <td>3</td>
+            <td><img src="img/bahia.png" alt="Goiás"></td>
+            <td class="titulo-clube">bahia</td>
+            <td>22</td>
+            <td>22</td>
             <td>5</td>
-            <td>4</td>
-            <td>13</td>
-            <td>16</td>
-            <td>-3</td>
+            <td>7</td>
+            <td>10</td>
+            <td>23</td>
+            <td>29</td>
+            <td>-6</td>
             <td class="titulo-ultimas-cinco"> 
-                <img src="img/derrota.svg" alt="derrota"> 
-                <img src="img/empate.svg" alt="empate"> 
-                <img src="img/empate.svg" alt="empate"> 
+            <img src="img/empate.svg" alt="empate"> 
+            <img src="img/derrota.svg" alt="derrota"> 
                 <img src="img/vitoria.svg" alt="vitória">
-                <img src="img/empate.svg" alt="empate">
+                <img src="img/derrota.svg" alt="derrota">
+                <img src="img/vitoria.svg" alt="vitória">
             </td>  
             <td class="tabela-colunas-bordas"></td>
         </tr>
         <tr>
             <td class="borda-vermelho"></td>
             <td>17</td>
-            <td><img src="img/atletico-GO.png" alt="Atlético-GO"></td>
-            <td class="titulo-clube">Atlético-GO</td>
-            <td>13</td>
-            <td>12</td>
-            <td>3</td>
-            <td>4</td>
+            <td><img src="img/santos.png" alt="Atlético-GO"></td>
+            <td class="titulo-clube">santos</td>
+            <td>21</td>
+            <td>22</td>
             <td>5</td>
-            <td>12</td>
-            <td>17</td>
-            <td>-5</td>
+            <td>6</td>
+            <td>11</td>
+            <td>21</td>
+            <td>36</td>
+            <td>-15</td>
             <td class="titulo-ultimas-cinco"> 
                 <img src="img/derrota.svg" alt="derrota"> 
-                <img src="img/vitoria.svg" alt="vitória">
+                <img src="img/derrota.svg" alt="derrota">
                 <img src="img/vitoria.svg" alt="vitória"> 
                 <img src="img/derrota.svg" alt="derrota">
                 <img src="img/empate.svg" alt="empate">
@@ -462,65 +462,65 @@ require_once("../session.php");
         <tr>
             <td class="borda-vermelho"></td>
             <td>18</td>
-            <td><img src="img/cuiaba.png" alt="Cuiabá"></td>
-            <td class="titulo-clube">Cuiabá</td>
+            <td><img src="img/vasco da gama.png" alt="Cuiabá"></td>
+            <td class="titulo-clube">vasco da gama</td>
+            <td>17</td>
+            <td>21</td>
+            <td>4</td>
+            <td>5</td>
             <td>12</td>
-            <td>12</td>
-            <td>3</td>
-            <td>3</td>
-            <td>6</td>
-            <td>9</td>
-            <td>15</td>
-            <td>-6</td>
+            <td>16</td>
+            <td>31</td>
+            <td>-15</td>
             <td class="titulo-ultimas-cinco"> 
+            <img src="img/empate.svg" alt="empate">
                 <img src="img/derrota.svg" alt="derrota">
-                <img src="img/empate.svg" alt="empate">
                 <img src="img/vitoria.svg" alt="vitória">
-                <img src="img/derrota.svg" alt="derrota"> 
-                <img src="img/derrota.svg" alt="derrota">
+                <img src="img/empate.svg" alt="empate"> 
+                <img src="img/vitoria.svg" alt="vitória">
             </td>  
             <td class="tabela-colunas-bordas"></td>
         </tr>
         <tr>
             <td class="borda-vermelho"></td>
             <td>19</td>
-            <td><img src="img/juventude.png" alt="Juventude"></td>
-            <td class="titulo-clube">Juventude</td>
-            <td>10</td>
-            <td>12</td>
-            <td>2</td>
-            <td>4</td>
-            <td>6</td>
-            <td>11</td>
+            <td><img src="img/america-MG.png" alt="Juventude"></td>
+            <td class="titulo-clube">america-MG</td>
+            <td>16</td>
             <td>21</td>
-            <td>-10</td>
+            <td>4</td>
+            <td>4</td>
+            <td>13</td>
+            <td>24</td>
+            <td>45</td>
+            <td>-21</td>
             <td class="titulo-ultimas-cinco"> 
+            <img src="img/vitoria.svg" alt="vitória">
+            <img src="img/vitoria.svg" alt="vitória">
                 <img src="img/derrota.svg" alt="derrota">
                 <img src="img/derrota.svg" alt="derrota">
                 <img src="img/derrota.svg" alt="derrota">
-                <img src="img/vitoria.svg" alt="vitória">
-                <img src="img/empate.svg" alt="empate">
             </td>  
             <td class="tabela-colunas-bordas"></td>
         </tr>
         <tr>
             <td class="borda-vermelho"></td>
             <td>20</td>
-            <td><img src="img/fortaleza.png" alt="Fortaleza"></td>
-            <td class="titulo-clube">Fortaleza</td>
-            <td>7</td>
-            <td>12</td>
-            <td>1</td>
-            <td>4</td>
-            <td>7</td>
-            <td>9</td>
-            <td>16</td>
-            <td>-7</td>
+            <td><img src="img/coritiba.png" alt="Fortaleza"></td>
+            <td class="titulo-clube">coritiba</td>
+            <td>14</td>
+            <td>21</td>
+            <td>3</td>
+            <td>5</td>
+            <td>13</td>
+            <td>21</td>
+            <td>42</td>
+            <td>-21</td>
             <td class="titulo-ultimas-cinco"> 
                 <img src="img/derrota.svg" alt="derrota">
-                <img src="img/empate.svg" alt="empate">
-                <img src="img/empate.svg" alt="empate">
-                <img src="img/vitoria.svg" alt="vitória">
+                <img src="img/derrota.svg" alt="derrota">
+                <img src="img/derrota.svg" alt="derrota">
+                <img src="img/derrota.svg" alt="derrota">
                 <img src="img/derrota.svg" alt="derrota">
             </td>  
             <td class="tabela-colunas-bordas"></td>

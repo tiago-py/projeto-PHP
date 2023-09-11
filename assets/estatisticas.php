@@ -61,7 +61,10 @@ require_once("../session.php");
         <a href="./classificacao.php">classificação</a>
         <a href="./estatisticas.php">estatistícas</a>
         <a href="../end-session.php">Sair</a>
-    <footer>
+    
+  
+        
+        <footer>
     <div class="names">
     <div class="name">Tiago Braga</div>
       <div class="name">Enzo Monzolli</div>

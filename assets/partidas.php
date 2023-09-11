@@ -52,6 +52,10 @@ require_once("../session.php");
         .name {
         font-size: 14px;
         }
+        .content{
+            align-items: center;
+
+        }
     </style>
 </head>
 <body>
@@ -63,7 +67,25 @@ require_once("../session.php");
         <a href="./estatisticas.php">estatistícas</a>
         <a href="../end-session.php">Sair</a>
     </div>
-
+    <div class="content">
+        <h1>Próximas Partidas - Campeonato Brasileiro Série A</h1>
+        <p>Aqui estão as próximas partidas de todos os times do Campeonato Brasileiro Série A:</p>
+        <ul>
+             <!-- edita isso aqui -->
+            <li>Cruzeiro vs. Santos - Data: DD/MM/YYYY, Horário: HH:MM</li>
+            <li>Cruzeiro vs. Santos - Data: DD/MM/YYYY, Horário: HH:MM</li>
+           
+            <li>Cruzeiro vs. Santos - Data: DD/MM/YYYY, Horário: HH:MM</li>
+            <li>Cruzeiro vs. Santos - Data: DD/MM/YYYY, Horário: HH:MM</li>
+            <li>Cruzeiro vs. Santos - Data: DD/MM/YYYY, Horário: HH:MM</li>
+            <li>Cruzeiro vs. Santos - Data: DD/MM/YYYY, Horário: HH:MM</li>
+            <li>Cruzeiro vs. Santos - Data: DD/MM/YYYY, Horário: HH:MM</li>
+            <li>Cruzeiro vs. Santos - Data: DD/MM/YYYY, Horário: HH:MM</li>
+            <li>Cruzeiro vs. Santos - Data: DD/MM/YYYY, Horário: HH:MM</li>
+            <li>Cruzeiro vs. Santos - Data: DD/MM/YYYY, Horário: HH:MM</li>
+            <li>Cruzeiro vs. Santos - Data: DD/MM/YYYY, Horário: HH:MM</li>
+        </ul>
+    </div>
     <footer>
     <div class="names">
       <div class="name">Tiago Braga</div>
